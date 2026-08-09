@@ -2,17 +2,15 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/5f/75/62/5f7562f0b01b35439e1a038dd0103518.jpg" width="900" alt="Banner" />
+<img src="https://i.pinimg.com/1200x/5f/75/62/5f7562f0b01b35439e1a038dd0103518.jpg" width="900" height="280" alt="Banner" />
 
 <h1 align="center">
-  Hello World! I'm Joshua Radit👋
+  Hello World! I'm Joshua Radit 👋
 </h1>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Trying+something+new+%F0%9F%9A%80;Welcome+to+my+GitHub!;Code+%E2%80%A2+Learn+%E2%80%A2+Explore" alt="Typing SVG" />
 
 </div>
-
-<br>
 
 ## 🧑‍💻 About Me
 
@@ -23,9 +21,9 @@
 - 🎯 **Goal:** Always learning and becoming a better developer
   <br>
 
-## <left> Want to master :
+## <center> Want to master :
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,mysql,python,react,git,github,vscode&perline=6" />
 </p>
 <br>
@@ -81,7 +79,7 @@
 </p>
 <br>
 
-# 🎯My Target
+# 💻 I am trying to
 
 <p align="center">
 
