@@ -66,10 +66,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joshuaradit&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-</p>
-
 <br>
 
 ## <center>Currently studying
