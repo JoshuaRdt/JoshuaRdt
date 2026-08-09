@@ -1,8 +1,8 @@
-<!-- Simpan banner yang sudah dibuat ke repo sebagai: assets/banner.png -->
+<!-- Simpan banner yang sudah dibuat ke repo kamu sebagai: assets/banner.png -->
 
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/d7/b0/05/d7b005a8d6e39f18f86a24b439923d86.jpg" width="900" height="318" alt="Banner" />
+<img src="https://i.pinimg.com/1200x/d7/a0/e0/d7a0e07686e15945172b31787f08ce77.jpg" width="900" alt="Banner" />
 
 <h1 align="center">
   Hello World! I'm Joshua Radit
