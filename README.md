@@ -31,7 +31,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3docm1vaGUyZG14d3BtZmJhN2Q5ZTgzZ292OXRwZm9uNmJxaXVrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vXyIMuWbGTMtO/giphy.gif" width="45%" alt="GIF kiri">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtwbXZ4bXJicG1hb3F2aGx1bXQ1djRpMnJ2NTlreHN3N3A4eWQ4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J6JazAkCVLId91L4yM/giphy.gif" width="45%" alt="GIF kanan">
 </p>
-
+<img src="https://i.pinimg.com/1200x/5f/75/62/5f7562f0b01b35439e1a038dd0103518.jpg" width="900" alt="Banner" />
 </div>
 
 <!-- ==================== ADDITIONAL SECTION ==================== -->
