@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/5f/75/62/5f7562f0b01b35439e1a038dd0103518.jpg" width="900" height="280" alt="Banner" />
+<img src="https://i.pinimg.com/1200x/d7/a0/e0/d7a0e07686e15945172b31787f08ce77.jpg" width="900" alt="Banner" />
 
 <h1 align="center">
   Hello World! I'm Joshua Radit 👋
