@@ -2,28 +2,26 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/d7/a0/e0/d7a0e07686e15945172b31787f08ce77.jpg" width="900" alt="Banner" />
+<img src="https://i.pinimg.com/1200x/5f/75/62/5f7562f0b01b35439e1a038dd0103518.jpg" width="900" alt="Banner" />
 
 <h1 align="center">
   Hello World! I'm Joshua Radit
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" alt="waving hand">
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Trying+something+new+🚀;Welcome+to+my+GitHub!;Code+•+Learn+•+Explore" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Trying+something+new+%F0%9F%9A%80;Welcome+to+my+GitHub!;Code+%E2%80%A2+Learn+%E2%80%A2+Explore" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-## 🙋‍♂️ About Me
+## 🧑‍💻 About Me
 
-🔭 Currently exploring new things in technology
-🌱 Currently learning **Web Development**
-💻 Interested in **HTML, CSS, JavaScript, PHP & Laravel**
-🛠️ Building projects to improve my coding skills
-🎯 Always learning and trying to become a better developer
-
+- 🔭 **Currently exploring:** New things in technology
+- 🌱 **Currently learning:** Web Development
+- 💻 **Interested in:** HTML, CSS, JavaScript, PHP & Laravel
+- 🛠️ **Building:** Projects to improve my coding skills
+- 🎯 **Goal:** Always learning and becoming a better developer
 
 
 ## 🛠️ Tech Stack
