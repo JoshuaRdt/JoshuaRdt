@@ -67,7 +67,20 @@
 ---
 
 <br>
+<div align="center">
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaRdt&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaRdt&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaRdt&theme=dark&hide_border=true" alt="GitHub Streak" width="96%" />
+</p>
+
+</div>
 ## <center>Currently studying
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
