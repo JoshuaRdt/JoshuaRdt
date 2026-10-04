@@ -31,7 +31,9 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3docm1vaGUyZG14d3BtZmJhN2Q5ZTgzZ292OXRwZm9uNmJxaXVrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vXyIMuWbGTMtO/giphy.gif" width="45%" alt="GIF kiri">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtwbXZ4bXJicG1hb3F2aGx1bXQ1djRpMnJ2NTlreHN3N3A4eWQ4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J6JazAkCVLId91L4yM/giphy.gif" width="45%" alt="GIF kanan">
 </p>
-<img src="https://i.pinimg.com/736x/6d/12/6b/6d126bbd3bb8561a4655fdf599e640c4.jpg" width="900" alt="Banner" />
+<p align="center">
+  <img src="./12345.png" width="100%" alt="Banner">
+</p>
 </div>
 
 <!-- ==================== ADDITIONAL SECTION ==================== -->
@@ -100,5 +102,4 @@
 | 💻 Build More Projects     | 🔄 Learning |
 | 🏆 Improve Coding Skills   | 🔄 Learning |
 
-![Profile Views](https://komarev.com/ghpvc/?username=JoshuaRdt&label=Profile%20Views&color=0e75b6&style=flat)
 </p>
