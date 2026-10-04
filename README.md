@@ -32,7 +32,11 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtwbXZ4bXJicG1hb3F2aGx1bXQ1djRpMnJ2NTlreHN3N3A4eWQ4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J6JazAkCVLId91L4yM/giphy.gif" width="45%" alt="GIF kanan">
 </p>
 <p align="center">
-  <img src="./12345.png" width="100%" alt="Banner">
+  <img
+    src="./12345.png"
+    width="750"
+    height="300"
+    alt="Banner"
 </p>
 </div>
 
