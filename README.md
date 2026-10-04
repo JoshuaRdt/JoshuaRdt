@@ -1,5 +1,10 @@
 <!-- Simpan banner yang sudah dibuat ke repo kamu sebagai: assets/banner.png -->
-
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=120&section=header&flip=true"
+    width="100%"
+  />
+</p>
 <div align="center">
 
 <img src="https://i.pinimg.com/1200x/d7/a0/e0/d7a0e07686e15945172b31787f08ce77.jpg" width="900" alt="Banner" />
@@ -21,19 +26,20 @@
 - 🎯 **Goal:** Always learning and becoming a better developer
   <br>
 
-## <center> Want to master :
+## <center> 💻Want to master :
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,mysql,python,react,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,mysql,python,react,git,github,kali&perline=6" />
 </p>
 <br>
+<p align="center"> <a href="https://github.com/JoshuaRdt"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </p>
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3docm1vaGUyZG14d3BtZmJhN2Q5ZTgzZ292OXRwZm9uNmJxaXVrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vXyIMuWbGTMtO/giphy.gif" width="45%" alt="GIF kiri">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtwbXZ4bXJicG1hb3F2aGx1bXQ1djRpMnJ2NTlreHN3N3A4eWQ4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J6JazAkCVLId91L4yM/giphy.gif" width="45%" alt="GIF kanan">
 </p>
 <p align="center">
   <img
-    src="./12345.png"
+    src="./012.png"
     width="750"
     height="300"
     alt="Banner"
@@ -64,46 +70,25 @@
 
 ---
 
-## <center> Simple entertainment ‼️
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-<br>
-<div align="center">
-<div align="center">
-<div align="center">
-
-
-</div>
-</div>
-
-## <center>Currently studying
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
-</p>
-<br>
-
-# 💻 I am trying to
 
 <p align="center">
 
-| 🚀 Goal                    | 📌 Progress |
-| :------------------------- | :---------- |
-| 🌐 Master Web Development  | 🔄 Learning |
-| ⚡ Improve JavaScript      | 🔄 Learning |
-| 🐘 Learn PHP & Laravel     | 🔄 Learning |
-| 🗄️ Improve Database Skills | 🔄 Learning |
-| 💻 Build More Projects     | 🔄 Learning |
-| 🏆 Improve Coding Skills   | 🔄 Learning |
+<img src="https://streak-stats.demolab.com?user=JoshuaRdt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </p>
+<p align="center">
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JoshuaRdt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaRdt&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+<br> <p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=120&section=footer" />
+
+</p> 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+
