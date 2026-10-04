@@ -48,7 +48,7 @@
 
 <!-- ==================== ADDITIONAL SECTION ==================== -->
 
-## 🚀 What I'm Currently Learning
+## 🖥️ What I'm Currently Learning
 
 ```text
 🌱 Learning Web Development
@@ -83,12 +83,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaRdt&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
-<br> <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=120&section=footer" />
 
 </p> 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+
+<br> <p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=120&section=footer" />
 
 
