@@ -39,7 +39,7 @@
 </p>
 <p align="center">
   <img
-    src="./zoro.png"
+    src="./zoro.jpg"
     width="750"
     height="300"
     alt="Banner"
