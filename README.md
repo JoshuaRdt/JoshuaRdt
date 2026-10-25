@@ -41,7 +41,7 @@
   <img
     src="./zoro.jpg"
     width="750"
-    height="300"
+    height="350"
     alt="Banner"
 </p>
 </div>
