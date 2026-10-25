@@ -39,7 +39,7 @@
 </p>
 <p align="center">
   <img
-    src="./bebas.png"
+    src="./bebas1.png"
     width="750"
     height="300"
     alt="Banner"
