@@ -79,7 +79,7 @@
 <p align="center">
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JoshuaRdt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+
 
 </p> 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
